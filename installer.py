@@ -1,3 +1,5 @@
+requiments = ["time"]
+
 numbersofprogress = 10
 
 def install(progress):
